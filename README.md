@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
