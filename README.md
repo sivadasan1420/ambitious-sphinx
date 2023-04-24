@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Update Twitter icon in Docs (#7711)
