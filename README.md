@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Replace onnx2tf usage from CLI to Python (#8429)
