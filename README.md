@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+YOLOv8 INT8 TFLite Inference Example (#7317)
