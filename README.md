@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
