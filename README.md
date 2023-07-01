@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
