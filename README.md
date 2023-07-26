@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
