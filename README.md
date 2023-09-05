@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
