@@ -1,1 +1,1 @@
-added badges (#45)
+Add YOLOv8 LibTorch C++ inference example (#7090)
