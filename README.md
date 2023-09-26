@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Resize angle, count, and stage on keypoint number change (#7598)
