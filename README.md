@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Update Colab notebook for YOLOv8.1 (#8660)
