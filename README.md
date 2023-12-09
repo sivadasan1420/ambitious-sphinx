@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
