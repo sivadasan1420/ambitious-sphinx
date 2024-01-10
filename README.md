@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Fix xyxyxyxyn calculation, swap axis (#8249)
