@@ -1,1 +1,1 @@
-update requirements.txt
+Improve Coral Edge TPU guide (#8160)
