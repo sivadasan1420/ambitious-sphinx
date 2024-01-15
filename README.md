@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Optimize function calls to method calls (#8507)
