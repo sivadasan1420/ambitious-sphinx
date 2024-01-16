@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Fix PNNX ubuntu -> linux bug (#7050)
