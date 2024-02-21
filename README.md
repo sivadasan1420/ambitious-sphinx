@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Explorer with LanceDB, Actions and Docs updates (#7487)
