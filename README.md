@@ -1,1 +1,1 @@
-example Google Colab
+Use pathlib in DOTA ops (#7552)
