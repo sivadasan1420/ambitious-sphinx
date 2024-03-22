@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
