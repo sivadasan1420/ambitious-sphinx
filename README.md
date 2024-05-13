@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
