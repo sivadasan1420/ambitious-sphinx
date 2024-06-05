@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
