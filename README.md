@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
