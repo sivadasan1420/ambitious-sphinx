@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
