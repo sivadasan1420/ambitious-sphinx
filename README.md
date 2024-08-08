@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
