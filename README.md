@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Use pathlib in DOTA ops (#7552)
